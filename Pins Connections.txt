@@ -1,0 +1,15 @@
+Arduino pins -> PERIPHERALS
+
+D2 -> D7 of LCD
+D3 -> D6 of LCD
+D4 -> D5 of LCD
+D5 -> D4 of LCD
+D11 -> ENALBE OF LCD
+D12 -> RS OF LCD
+D7 -> GREEN LED
+D6 -> RED LED
+D8 -> ENTRY BUTTON
+D13 -> EXIT BUTTON
+D9 -> SERVO MOTOR PWM/CONTROL PIN 
+
+NOTE: 220 ohm resistor is neccesary for LCD Anode pin to +5V for the LCD to work
